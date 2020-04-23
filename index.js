@@ -6,7 +6,7 @@ const phrases = [
   "y tu",
   "XD",
   "no compren bienes importados",
-  "voy a formatear el PC wm!,
+  "voy a formatear el PC wm",
   "xupalo",
   "kie kieee"
 ];
